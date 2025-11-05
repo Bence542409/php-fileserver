@@ -5,10 +5,6 @@
 <p>The files are in Hungarian, but you can change it as you like.</p>
 <p>If PHP is not yet installed on your web server: <a href="https://www.php.net/downloads.php" target="_blank">https://www.php.net/downloads.php</a></p>
 <br />
-<p>index_include.php --></p>
-<ul>
-  <li>includes the original PHP page for easy copy-paste</li>
-</ul>
 <p>php/index_dir.php --></p>
 <ul>
   <li>lists the files available in the directory of the include file</li>
@@ -29,13 +25,17 @@
   <li>reads the file path to a file or folder and downloads it from one directory above (if the file is a directory, it makes a .zip archive of the folder before downloading)</li>
   <li>usage: download.php?folder/test.txt</li>
 </ul>
-<p>admin.php --></p>
+<p>php/admin.php --></p>
 <ul>
   <li>gives you the option to upload, rename or delete files and create or delete (only empty) directorys</li>
+</ul>
+<p>index_include.php --></p>
+<ul>
+  <li>includes the original PHP page for easy copy-paste</li>
 </ul>
 <p>.htaccess --></p>
 <ul>
   <li>redirects example.com/admin to example.com/php/admin.php</li>
   <li>redirects to example.com/php/download.php?$1 if the URL starts with /download/</li>
-  <li>redirects to example.com/photo/%1/colored/ if the URL starts with a number</li>
+  <li>redirects to example.com/photo/%1/colored/ if the URL starts with a number (<a href="https://github.com/Bence542409/php-gallery">to work with my php gallery system)</a></li>
 </ul>
