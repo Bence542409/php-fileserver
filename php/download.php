@@ -1,6 +1,6 @@
 <?php
 // download.php
-// Usage: /php/download.php?ekke/bevinf -> serves file ../ekke/bevinf
+// Usage: /php/download.php?test/text.txt -> serves file ../test/text.txt
 
 // Base directory: one level up from this script
 $baseDir = realpath(__DIR__ . '/..');
@@ -132,3 +132,4 @@ if (is_file($target) && is_readable($target)) {
 http_response_code(404);
 echo "Not found.";
 exit;
+
