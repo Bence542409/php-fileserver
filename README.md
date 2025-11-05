@@ -7,7 +7,7 @@
 <br />
 <p>php/index_dir.php --></p>
 <ul>
-  <li>lists the files available in the directory of the include file</li>
+  <li>lists the files available in the directory of the include file (filename, creation date, modification date, type, download button</li>
   <li>reads the name of the directory</li>
   <li>opens picture, video and pdf files in browser</li>
   <li>press the download button to download (if the file is a directory, it makes a .zip archive of the folder before downloading)</li>
