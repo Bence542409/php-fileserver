@@ -17,6 +17,7 @@
   <li>press the "enter" key to focus the search input (while textbox is inactive)</li>
   <li>press "enter" while the textbox is active to open the first result of the search</li>
   <li>press the "esc" key to defocus the search input (while textbox is active)</li>
+  <li>press the "esc" key to go to the parent directory (while textbox is inactive)</li>
   <li>press the "tab" key to reset the search input</li>
   <li>press the numeric keys (1 - 9) to open the selected result of the search</li>
   <li>press the '0' key to go to the parent directory</li>
