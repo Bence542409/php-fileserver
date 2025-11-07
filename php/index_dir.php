@@ -225,9 +225,9 @@ tr.hidden{display:none;}
         <a 
             href="<?= htmlspecialchars($link) ?>" 
             class="folder-link"
-            <?php if(!$item['is_dir'] && !$isImage && !$isVideo && $ext !== 'pdf'): ?> download <?php endif; ?>>
+            <?php if(!$item['is_dir'] && !$isImage && !$isVideo && $ext !== 'pdf' && $ext !== 'php'): ?> download <?php endif; ?>>
             <?= htmlspecialchars($item['name']) ?>
-        </a>  
+        </a>
     </td>
     <td data-label="Létrehozva"><?= date('Y-m-d H:i:s',$item['ctime']) ?></td>
     <td data-label="Módosítva"><?= date('Y-m-d H:i:s',$item['mtime']) ?></td>
