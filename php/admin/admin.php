@@ -5,7 +5,7 @@ session_start();
  * Konfiguráció
  */
 $BASE_DIR = 'C:\\Users\\user\\Desktop\\server1\\'; // alapkönyvtár (Windows)
-$PASSWORD = '904245'; // jelenlegi jelszó
+$PASSWORD = 'admin'; // jelenlegi jelszó
 
 // segédfüggvények
 function join_path($base, $rel) {
