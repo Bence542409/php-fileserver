@@ -30,7 +30,7 @@
 </ul>
 <p>php/download.php --></p>
 <ul>
-  <li>reads the file path to a file or folder, and if it's from an allowed directory, it downloads it from one directory above (if the file is a directory, it makes a .zip archive of the folder before downloading)</li>
+  <li>reads the file path to a file or folder from a specific directory, and downloads it from one directory above (if the file is a directory, it makes a .zip archive of the folder before downloading)</li>
 </ul>
 <p>php/admin.php --></p>
 <ul>
@@ -38,9 +38,15 @@
   <li>gives you the option to upload, rename or delete files and create or delete (only empty) directorys</li>
   <li>unzips the file after uploading, if the file is a .zip archive</li>
 </ul>
-<p>php/upload.php</p>
+<p>php/upload.php --></p>
 <ul>
   <li>option to upload files anonymously to a given direcrory</li>
+</ul>
+<p>php/search.php --></p>
+<ul>
+  <li>option to grant public access to a specific subdirectory</li>
+  <li>log in to gain access to root directory)
+  <li>option to search for filenames from one directory above</li>
 </ul>
 <p>index_include.php --></p>
 <ul>
