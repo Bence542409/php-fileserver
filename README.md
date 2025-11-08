@@ -7,11 +7,17 @@
 <br />
 <p>php/index_dir.php --></p>
 <ul>
-  <li>lists the files available in the directory of the include file (filename, creation date, modification date, type, download button)</li>
-  <li>reads the name of the directory</li>
+  <li>lists the files available in the directory of the include file (filename, creation date, modification date, type, download icon)</li>
+  <li>reads the path of the directory without the unnecessary parts of the url (if directory is not root)</li>
+  <li>reads the name of the directory (if direcrory is root)</li>
   <li>hides itself and other system files</li>
   <li>opens picture, video, pdf and php files in browser</li>
-  <li>press the download button to download (if the file is a directory, it makes a .zip archive of the folder before downloading)</li>
+  <li>option to browse between folders and files in the direcrory</li>
+  <li>counts the number of files (only on desktop view)</li>
+  <li>press the search-all icon to search in all subdirectories (only on desktop view)</li>
+  <li>press the download-folder icon to download all the files in the directory (only on desktop view)</li>
+  <li>press the login icon to open the admin panel (only on desktop view)</li>
+  <li>press the download button to download files or folders individually (if the file is a directory, it makes a .zip archive of the folder before downloading)</li>
   <li>search option with shortcuts</li>
   <li>press the "backspace" key to go to the previous page (while textbox is inactive)</li>
   <li>press the "enter" key to focus the search input (while textbox is inactive)</li>
