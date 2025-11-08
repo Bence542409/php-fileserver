@@ -1,4 +1,4 @@
-# php-storageserver
+# php-fileserver
 <p>PHP file management system with directory listing.</p>
 <br />
 <p>Built by me and ChatGPT.</p>
