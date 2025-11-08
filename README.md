@@ -33,7 +33,7 @@
 </ul>
 <p>php/admin.php --></p>
 <ul>
-  <li>promts the user to login before commiting changes (default password: admin)<li>
+  <li>promts the user to login before commiting changes (default password: admin)</li>
   <li>gives you the option to upload, rename or delete files and create or delete (only empty) directorys</li>
   <li>unzips the file after uploading, if the file is a .zip archive</li>
 </ul>
@@ -45,7 +45,7 @@
 <ul>
   <li>option to grant public access to a specific subdirectory</li>
   <li>log in to gain access to root directory</li>
-  <li>option to search for filenames from one directory above</li>
+  <li>option to search in allowed filepaths</li>
 </ul>
 <p>index_include.php --></p>
 <ul>
