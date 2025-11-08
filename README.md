@@ -49,7 +49,7 @@
 </ul>
 <p>index_include.php --></p>
 <ul>
-  <li>includes the original PHP page for easy copy-paste</li>
+  <li>refers to the code (php/index-dir.php) for easy copy-paste</li>
 </ul>
 <p>.htaccess --></p>
 <ul>
