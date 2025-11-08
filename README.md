@@ -18,7 +18,6 @@
   <li>press the download-folder icon to download all the files in the directory (only on desktop view)</li>
   <li>press the login icon to open the admin panel (only on desktop view)</li>
   <li>press the download button to download files or folders individually (if the file is a directory, it makes a .zip archive of the folder before downloading)</li>
-  <li>search option with shortcuts</li>
   <li>press the "backspace" key to go to the previous page (while textbox is inactive)</li>
   <li>press the "enter" key to focus the search input (while textbox is inactive)</li>
   <li>press "enter" while the textbox is active to open the first result of the search</li>
