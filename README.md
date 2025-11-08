@@ -44,7 +44,7 @@
 <p>php/search.php --></p>
 <ul>
   <li>option to grant public access to a specific subdirectory</li>
-  <li>log in to gain access to root directory)
+  <li>log in to gain access to root directory</li>
   <li>option to search for filenames from one directory above</li>
 </ul>
 <p>index_include.php --></p>
