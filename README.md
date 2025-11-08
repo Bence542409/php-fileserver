@@ -19,7 +19,7 @@
   <li>press the login icon or the 'A' key to open the admin panel (only on desktop view)</li>
   <li>press the download button or the 'L' key (while records are selected) to download files or folders individually (if the file is a directory, it makes a .zip archive of the folder before downloading)</li>
   <li>press the "backspace" key to go to the previous page (while textbox is inactive)</li>
-  <li>press the arrow keys to move between records</li>
+  <li>use the arrow keys to move between records</li>
   <li>press the "enter" key to focus the search input (while textbox is inactive and no records are selected)</li>
   <li>press "enter" while the textbox is active and no records are selected to open the first result of the search</li>
   <li>press "enter" while records are selected to open that specific record</li>
