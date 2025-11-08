@@ -139,7 +139,7 @@ a:hover { text-decoration:underline; }
         <?php if (empty($results)): ?>
             <p style="font-size:13px; color:red; margin-top:30px;">Nincs találat, vagy nincs engedélye az útvonalhoz.</p>
         <?php else: ?>
-            <h3 style="margin-top:15px;">Találatok: <?php echo count($results); ?></h3>
+            <h3 style="margin-top:30px;">Találatok: <?php echo count($results); ?></h3>
             <ul>
                 <?php foreach ($results as $r): ?>
                     <li class="folder-row" style="--depth: <?php echo $r['depth']; ?>;">
@@ -154,4 +154,5 @@ a:hover { text-decoration:underline; }
 </div>
 </body>
 </html>
+
 
