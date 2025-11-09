@@ -2,6 +2,7 @@
 <p>PHP file management system with directory listing.</p>
 <br />
 <p>Built by me and ChatGPT.</p>
+<p>You have to determine a subfolder name in certain files before using (default: server1)</p>
 <p>The files are in Hungarian, but you can change it as you like.</p>
 <p>If PHP is not yet installed on your web server: <a href="https://www.php.net/downloads.php" target="_blank">https://www.php.net/downloads.php</a></p>
 <br />
