@@ -21,8 +21,8 @@
   <li>press the "backspace" key to go to the previous page (while textbox is inactive)</li>
   <li>use the arrow keys to move between records</li>
   <li>press the "enter" key to focus the search input (while textbox is inactive and no records are selected)</li>
-  <li>press "enter" while the textbox is active and no records are selected to open the first result of the search</li>
-  <li>press "enter" while records are selected to open that specific record</li>
+  <li>press the "enter" key to open the first result of search (while textbox is active and no records are selected)</li>
+  <li>press the "enter" key to open that specific record (while records are selected)</li>
   <li>press the "esc" key to defocus the search input and selected records</li>
   <li>press the "esc" key to go to the parent directory (while textbox is inactive)</li>
   <li>press the "tab" key to reset the search input</li>
