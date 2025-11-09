@@ -23,7 +23,7 @@
   <li>press the "enter" key to focus the search input (while textbox is inactive and no records are selected)</li>
   <li>press the "enter" key to open the first result of search (while textbox is active and no records are selected)</li>
   <li>press the "enter" key to open that specific record (while records are selected)</li>
-  <li>press the "esc" key to defocus the search input and selected records</li>
+  <li>press the "esc" key to defocus the search input and selected records (while textbox is active and/or records are selected)</li>
   <li>press the "esc" key to go to the parent directory (while textbox is inactive)</li>
   <li>press the "tab" key to reset the search input</li>
   <li>press the numeric keys (1 - 9) to open the numbered result of the search</li>
