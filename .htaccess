@@ -4,6 +4,7 @@ RewriteRule ^photo$ https://example.com/photo/ [R=301,L]
 RewriteRule ^admin https://example.com/php/admin.php [R=301,L]
 RewriteRule ^search https://example.com/php/search.php [R=301,L]
 RewriteRule ^upload https://example.com/php/upload.php [R=301,L]
+RewriteRule ^login https://example.com/php/login.php [R=301,L]
 
 # Redirect example.com/admin
 RewriteRule ^admin https://example.com/php/admin.php [R=301,L]
