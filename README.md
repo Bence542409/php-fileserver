@@ -65,6 +65,7 @@
   <li>redirects example.com/admin to example.com/server1/php/admin.php</li>
   <li>redirects example.com/search to example.com/server1/php/search.php</li>
   <li>redirects example.com/upload to example.com/server1/php/upload.php</li>
+  <li>redirects example.com/login to example.com/server1/php/login.php</li>
   <li>redirects to example.com/server1/php/download.php?$1 if the URL starts with /download/</li>
   <li>redirects to example.com/server1/photo/%1/colored/ if the URL starts with a number (to work with my <a href="https://github.com/Bence542409/php-gallery">php gallery system</a>)</li>
 </ul>
