@@ -17,13 +17,14 @@
   <li>counts the number of files (only on desktop view)</li>
   <li>press the search-all icon or the 'S' key to search in all subdirectories (only on desktop view)</li>
   <li>press the download-folder icon or the 'D' key (while no records are selected) to download all the files in the directory (only on desktop view)</li>
-  <li>press the share icon or the 'C' key to copy the path to the file or directory (only on desktop view)</li>
+  <li>press the share-folder icon or the 'C' key to copy the path to the directory (only on desktop view)</li>
   <li>press the link icon to create a shareable link. (only on desktop view)</li>
   <li>press the login icon or the 'L' key to log in as admin (only on desktop view)</li>
   <li>press the logout icon or the 'Q' key to log out (only on desktop view)</li>
   <li>press the file-create icon or the 'N' key to create a file/folder (only on desktop view)</li>
   <li>press the file-upload icon or the 'U' key to upload a file (unzips the file if the file is a .zip archive) (only on desktop view)</li>
-  <li>press the download button or the 'D' key (while records are selected) to download files or folders individually (if the file is a directory, it makes a .zip archive of the folder before downloading)</li>
+  <li>press the download-folder button or the 'D' key (while records are selected) to download files or folders individually (if the file is a directory, it makes a .zip archive of the folder before downloading)</li>
+  <li>press the share-file icon or the 'C' key (while a record is selected) to copy the path to the file</li>
   <li>press the edit button or the 'E' key (while records are selected) to edit the contents of the selected file</li>
   <li>press the rename button or the 'R' key (while records are selected) to rename the selected file/folder</li>
   <li>press the move button or the 'M' key (while records are selected) to move the selected file/folder to another location</li>
