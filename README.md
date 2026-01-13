@@ -17,7 +17,9 @@
   <li>counts the number of files (only on desktop view)</li>
   <li>press the search-all icon or the 'S' key to search in all subdirectories (only on desktop view)</li>
   <li>press the download-folder icon or the 'D' key (while no records are selected) to download all the files in the directory (only on desktop view)</li>
-  <li>press the login icon or the 'A' key to log in as admin (only on desktop view)</li>
+  <li>press the share icon or the 'C' key to copy the path to the file or directory (only on desktop view)</li>
+  <li>press the link icon to create a shareable link. (only on desktop view)</li>
+  <li>press the login icon or the 'L' key to log in as admin (only on desktop view)</li>
   <li>press the logout icon or the 'Q' key to log out (only on desktop view)</li>
   <li>press the file-create icon or the 'N' key to create a file/folder (only on desktop view)</li>
   <li>press the file-upload icon or the 'U' key to upload a file (unzips the file if the file is a .zip archive) (only on desktop view)</li>
