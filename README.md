@@ -46,7 +46,7 @@
   <li>grants access to admin.php</li>
   <li>grants admin privilages to index_dir.php</li>
 </ul>
-<p>php/logout --></p>
+<p>php/logout.php --></p>
 <ul>
   <li>logs out the user when opened</li>
 </ul>
