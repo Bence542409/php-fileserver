@@ -38,7 +38,7 @@
   <li>press the "esc" key to go to the parent directory (while textbox is inactive)</li>
   <li>press the "tab" key to reset the search input</li>
   <li>press the numeric keys (1 - 9) to open the numbered result of the search (while textbox is inactive)</li>
-  <li>press the '0' key to go to the parent directory</li>
+  <li>press the '0' key to go to the parent directory (while textbox is inactive)</li>
 </ul>
 <p>php/login.php --></p>
 <ul>
@@ -64,7 +64,7 @@
 </ul>
 <p>php/upload.php --></p>
 <ul>
-  <li>option to upload files anonymously to a given direcrory</li>
+  <li>option to upload files anonymously to a given directory</li>
 </ul>
 <p>php/search.php --></p>
 <ul>
