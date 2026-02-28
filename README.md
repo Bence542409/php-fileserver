@@ -4,13 +4,14 @@
 <p>Built by me and ChatGPT.</p>
 <p>You have to determine a subfolder name in certain files before using (default: server1)</p>
 <p>The files are in Hungarian, but you can change it as you like.</p>
+<p>The fileserver works with my <a href="https://github.com/Bence542409/php-gallery">gallery system</a> and my</p>
 <p>If PHP is not yet installed on your web server: <a href="https://www.php.net/downloads.php" target="_blank">https://www.php.net/downloads.php</a></p>
 <br />
 <p>php/index_dir.php --></p>
 <ul>
   <li>lists the files available in the directory of the include file (filename, creation date, modification date, type, download icon)</li>
   <li>reads the path of the directory without the unnecessary parts of the url (if directory is not root)</li>
-  <li>reads the name of the directory (if direcrory is root)</li>
+  <li>reads the name of the directory (if directory is root)</li>
   <li>hides itself and other system files</li>
   <li>opens picture, video, pdf and php files in browser</li>
   <li>option to browse between folders and files in the directory</li>
